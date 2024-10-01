@@ -1,6 +1,6 @@
 # 1.3-Control-de-versiones-de-Unity
 
-Objetivo:Experimentar el control de versiones con Unity
+Objetivo: Experimentar el control de versiones con Unity
 
 ## 1. Crear un proyecto Unity 3D básico con control de versiones en Unity. 
 
